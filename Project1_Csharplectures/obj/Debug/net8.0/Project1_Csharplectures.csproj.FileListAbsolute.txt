@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Advanced Concepts\Project1_Csharplectures\bin\Debug\net8.0\Project1_Csharplectures.exe
+C:\Users\user\source\repos\Advanced Concepts\Project1_Csharplectures\bin\Debug\net8.0\Project1_Csharplectures.deps.json
+C:\Users\user\source\repos\Advanced Concepts\Project1_Csharplectures\bin\Debug\net8.0\Project1_Csharplectures.runtimeconfig.json
+C:\Users\user\source\repos\Advanced Concepts\Project1_Csharplectures\bin\Debug\net8.0\Project1_Csharplectures.dll
+C:\Users\user\source\repos\Advanced Concepts\Project1_Csharplectures\bin\Debug\net8.0\Project1_Csharplectures.pdb
+C:\Users\user\source\repos\Advanced Concepts\Project1_Csharplectures\obj\Debug\net8.0\Project1_Csharplectures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Advanced Concepts\Project1_Csharplectures\obj\Debug\net8.0\Project1_Csharplectures.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Advanced Concepts\Project1_Csharplectures\obj\Debug\net8.0\Project1_Csharplectures.AssemblyInfo.cs
+C:\Users\user\source\repos\Advanced Concepts\Project1_Csharplectures\obj\Debug\net8.0\Project1_Csharplectures.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Advanced Concepts\Project1_Csharplectures\obj\Debug\net8.0\Project1_Csharplectures.dll
+C:\Users\user\source\repos\Advanced Concepts\Project1_Csharplectures\obj\Debug\net8.0\refint\Project1_Csharplectures.dll
+C:\Users\user\source\repos\Advanced Concepts\Project1_Csharplectures\obj\Debug\net8.0\Project1_Csharplectures.pdb
+C:\Users\user\source\repos\Advanced Concepts\Project1_Csharplectures\obj\Debug\net8.0\Project1_Csharplectures.genruntimeconfig.cache
+C:\Users\user\source\repos\Advanced Concepts\Project1_Csharplectures\obj\Debug\net8.0\ref\Project1_Csharplectures.dll
